@@ -38,7 +38,7 @@
 
 ### 4. RMSE of the Model on Test Data
 
-- **RMSE**:  [Insert RMSE value here]
+- **RMSE**: 3096
   - The model performed well, with an RMSE indicating minimal error on the test data.
 
 - **Model Summary**:  
@@ -64,6 +64,7 @@
 # Results from Atlanta Braves Team
 - I participated as Group Ron in this competition, achieving the lowest error rate of 3.3% and outperforming several other teams who also delivered strong results within 5% accuracy.My success was driven by thorough data exploration and careful model tuning, demonstrating the effectiveness of my approach to ticket sales estimation.
 
-![img_2.png](images/img_2.png)
 
-![img_3.png](images/img_3.png)
+![img_6.png](images/img_6.png)
+
+![img_5.png](images/img_5.png)
