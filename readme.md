@@ -62,7 +62,8 @@
 
 
 # Results from Atlanta Braves Team
-- I participated as Group Ron in this competition, achieving the lowest error rate of 3.3% and outperforming several other teams who also delivered strong results within 5% accuracy. My success was driven by thorough data exploration and careful model tuning, demonstrating the effectiveness of my approach to ticket sales estimation.
+- I participated as Group Ron in this competition, achieving the lowest error rate of 3.3% and outperforming several other teams who also delivered strong results within 5% accuracy.My success was driven by thorough data exploration and careful model tuning, demonstrating the effectiveness of my approach to ticket sales estimation.
+
 ![img_2.png](images/img_2.png)
 
 ![img.png](images/img_1.png)
